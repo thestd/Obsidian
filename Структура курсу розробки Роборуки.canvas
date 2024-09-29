@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"3f42e05c61f978d1","type":"text","text":"Проєкт \"Роборука\"","x":-520,"y":-420,"width":240,"height":60,"color":"5"},
+		{"id":"a782fbb7d957b07e","type":"text","text":"Роборука","x":-860,"y":-300,"width":250,"height":60,"color":"2"},
+		{"id":"65e61f723827de2a","type":"text","text":"Система керування роборукою (СК)","x":-200,"y":-300,"width":250,"height":60,"color":"4"},
+		{"id":"2e0f1d1e4505a53e","type":"file","file":"Роборука - навчальний курс/1 Роборука. Початок.md","x":-600,"y":-920,"width":400,"height":400,"color":"5"},
+		{"id":"090900b4e9f8cfe8","type":"file","file":"Роборука - навчальний курс/2 Розгляд СК. Основа орієнтації в просторі. Початок роботи з IMU.md","x":50,"y":-120,"width":400,"height":360,"color":"4"},
+		{"id":"1da8bfe901fe3a9d","type":"file","file":"Роборука - навчальний курс/3 Використання розрахованих кутів для роботи з сервомоторами.md","x":50,"y":400,"width":400,"height":400,"color":"4"},
+		{"id":"59bb63cf12262f19","type":"file","file":"Роборука - навчальний курс/4 Створення електроніки для Роборуки. Передавання даних між СК та електронікою Роборуки.md","x":-1260,"y":-120,"width":400,"height":360,"color":"2"},
+		{"id":"89a528376a567d16","type":"file","file":"Роборука - навчальний курс/5 Моделювання конструкції Роборуки.md","x":-1260,"y":400,"width":400,"height":400,"color":"2"},
+		{"id":"a701d29a42d40067","type":"file","file":"Роборука - навчальний курс/6 Моделювання корпусу для СК. Основи 3D друку.md","x":50,"y":960,"width":400,"height":400,"color":"4"},
+		{"id":"48cce6cbda8b6ddf","type":"file","file":"Роборука - навчальний курс/7 Тестування реалізованої системи. Визначення основних проблем. Планування подальшої роботи.md","x":-600,"y":1600,"width":400,"height":400,"color":"5"},
+		{"id":"16a4cdcbfc9316fb","type":"text","text":"Система керування роборукою (СК)","x":-200,"y":2120,"width":250,"height":60,"color":"4"},
+		{"id":"b625d0d9b5f8d34e","type":"file","file":"Роборука - навчальний курс/8 Частина 1. Зміна підходу до розрахунку орієнтації в просторі. Комплексні числа..md","x":50,"y":2300,"width":400,"height":400,"color":"4"},
+		{"id":"98a9d66fdeddd955","type":"file","file":"Роборука - навчальний курс/9 Частина 2. Зміна підходу до розрахунку орієнтації в просторі. Кватерніони.md","x":50,"y":2840,"width":400,"height":400,"color":"4"},
+		{"id":"18f24d3b09f4a5c1","x":-600,"y":3440,"width":400,"height":400,"color":"5","type":"file","file":"Роборука - навчальний курс/10 Тестування реалізованих проєктів. Виправлення помилок. Підготовка до презентації.md"},
+		{"id":"0c83f86d1863254c","x":-600,"y":4080,"width":400,"height":400,"type":"file","file":"Роборука - навчальний курс/11 Ретроспектива. Визначення основних проблем пройденого курсу..md"}
+	],
+	"edges":[
+		{"id":"2e4b6d8575ad3baa","fromNode":"3f42e05c61f978d1","fromSide":"bottom","toNode":"a782fbb7d957b07e","toSide":"right"},
+		{"id":"811d3d29d14d1ccb","fromNode":"3f42e05c61f978d1","fromSide":"bottom","toNode":"65e61f723827de2a","toSide":"left"},
+		{"id":"9725b010cdd2dbea","fromNode":"3f42e05c61f978d1","fromSide":"top","toNode":"2e0f1d1e4505a53e","toSide":"bottom"},
+		{"id":"3e432b229b40395e","fromNode":"090900b4e9f8cfe8","fromSide":"bottom","toNode":"1da8bfe901fe3a9d","toSide":"top"},
+		{"id":"8245e6a79315763f","fromNode":"65e61f723827de2a","fromSide":"bottom","toNode":"090900b4e9f8cfe8","toSide":"top"},
+		{"id":"adef71b06e43b0b8","fromNode":"a782fbb7d957b07e","fromSide":"bottom","toNode":"59bb63cf12262f19","toSide":"top"},
+		{"id":"628ef147d3a4472e","fromNode":"59bb63cf12262f19","fromSide":"bottom","toNode":"89a528376a567d16","toSide":"top"},
+		{"id":"9067cc715ff7586f","fromNode":"1da8bfe901fe3a9d","fromSide":"bottom","toNode":"a701d29a42d40067","toSide":"top"},
+		{"id":"544925f28eb279cd","fromNode":"a701d29a42d40067","fromSide":"bottom","toNode":"48cce6cbda8b6ddf","toSide":"top"},
+		{"id":"02442b381679224b","fromNode":"89a528376a567d16","fromSide":"bottom","toNode":"48cce6cbda8b6ddf","toSide":"top"},
+		{"id":"63ec2ee65489ef9d","fromNode":"48cce6cbda8b6ddf","fromSide":"bottom","toNode":"16a4cdcbfc9316fb","toSide":"left"},
+		{"id":"4ba46955b8011c44","fromNode":"16a4cdcbfc9316fb","fromSide":"bottom","toNode":"b625d0d9b5f8d34e","toSide":"top"},
+		{"id":"444510869b99114d","fromNode":"b625d0d9b5f8d34e","fromSide":"bottom","toNode":"98a9d66fdeddd955","toSide":"top"},
+		{"id":"cc71b161fd0127e0","fromNode":"98a9d66fdeddd955","fromSide":"bottom","toNode":"18f24d3b09f4a5c1","toSide":"top"},
+		{"id":"dc759afa59368015","fromNode":"18f24d3b09f4a5c1","fromSide":"bottom","toNode":"0c83f86d1863254c","toSide":"top"}
+	]
+}

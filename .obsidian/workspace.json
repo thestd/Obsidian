@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "0e634e70657b5bba",
+    "type": "split",
+    "children": [
+      {
+        "id": "4abaad262995deee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e86e7db338661ef5",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Структура курсу розробки Роборуки.canvas",
+                "viewState": {
+                  "x": -308,
+                  "y": 3966,
+                  "zoom": -1
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce7b51f45e50137b",
+    "type": "split",
+    "children": [
+      {
+        "id": "996a014490cf4651",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc655ee57cbecce3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4842a16b81558ff1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a0a93be8623fa8af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ad62f610aebd175",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a7c7574dc4a1ffb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a88509cd8a2a416",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Структура курсу розробки Роборуки.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "66e1e6206239d1f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Структура курсу розробки Роборуки.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c9984d05702bd0f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "304120e3180c696c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Структура курсу розробки Роборуки.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false
+    }
+  },
+  "active": "dc655ee57cbecce3",
+  "lastOpenFiles": [
+    "Новий текстовий документ.txt",
+    "Роборука - навчальний курс/2 Розгляд СК. Основа орієнтації в просторі. Початок роботи з IMU.md",
+    "Структура курсу розробки Роборуки.canvas",
+    "Роборука - навчальний курс/11 Ретроспектива. Визначення основних проблем пройденого курсу..md",
+    "Роборука - навчальний курс/10 Тестування реалізованих проєктів. Виправлення помилок. Підготовка до презентації.md",
+    "Роборука - навчальний курс/9 Частина 2. Зміна підходу до розрахунку орієнтації в просторі. Кватерніони.md",
+    "Роборука - навчальний курс/8 Частина 1. Зміна підходу до розрахунку орієнтації в просторі. Комплексні числа..md",
+    "Роборука - навчальний курс/7 Тестування реалізованої системи. Визначення основних проблем. Планування подальшої роботи.md",
+    "Роборука - навчальний курс/6 Моделювання корпусу для СК. Основи 3D друку.md",
+    "Роборука - навчальний курс/5 Моделювання конструкції Роборуки.md",
+    "Роборука - навчальний курс/4 Створення електроніки для Роборуки. Передавання даних між СК та електронікою Роборуки.md",
+    "Роборука - навчальний курс/3 Використання розрахованих кутів для роботи з сервомоторами.md",
+    "Роборука - навчальний курс/1 Роборука. Початок.md",
+    "Додаткові уроки/ESP32.md",
+    "Додаткові уроки",
+    "Роборука - навчальний курс/images/images.jpg",
+    "Роборука - навчальний курс/images",
+    "2024-09-29.md",
+    "Математика/Гіперкомплексні числа, кватерніони.md",
+    "Математика",
+    "Навчальний курс Роборука.md",
+    "Роборука - навчальний курс",
+    "Без назви 1.canvas",
+    "Без назви 2.canvas",
+    "Математика/Матриці орієнтації.md",
+    "Математика/Орієнтація в просторі.md",
+    "Математика/Кути Ейлера.md"
+  ]
+}
