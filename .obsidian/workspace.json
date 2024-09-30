@@ -29,42 +29,27 @@
               "state": {
                 "file": "Структура курсу розробки Роборуки.canvas",
                 "viewState": {
-                  "x": -234.0974284463686,
-                  "y": -194.73772483977933,
-                  "zoom": -0.6129197302689364
-                }
-              }
-            }
-          },
-          {
-            "id": "ecb64d29bcabf72c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Роборука - навчальний курс/4 Створення електроніки для Роборуки. Передавання даних між СК та електронікою Роборуки.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4c796d7c455bce7",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Структура курсу розробки Роборуки.canvas",
-                "viewState": {
                   "x": -160,
                   "y": 1190,
                   "zoom": -2.25720332192529
                 }
               }
             }
+          },
+          {
+            "id": "90f678b4431dda5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Роборука - навчальний курс/2.2 Розгляд СК. Основа орієнтації в просторі..md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Структура курсу розробки Роборуки.canvas",
+                "file": "Роборука - навчальний курс/2.2 Розгляд СК. Основа орієнтації в просторі..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Структура курсу розробки Роборуки.canvas",
+                "file": "Роборука - навчальний курс/2.2 Розгляд СК. Основа орієнтації в просторі..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Структура курсу розробки Роборуки.canvas"
+                "file": "Роборука - навчальний курс/2.2 Розгляд СК. Основа орієнтації в просторі..md"
               }
             }
           }
@@ -183,25 +168,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Відкрити провідник файлів": false,
-      "graph:Граф": false,
-      "canvas:Створити нове полотно": false,
-      "daily-notes:Сьогоднішня нотатка": false,
-      "templates:Вставити шаблон": false,
-      "command-palette:Відкрити меню команд": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "media-extended:Open media": false,
+      "obsidian-wordpress:WordPress Publish": false
     }
   },
-  "active": "c4c796d7c455bce7",
+  "active": "90f678b4431dda5e",
   "lastOpenFiles": [
-    "Структура курсу розробки Роборуки.png",
-    "Роборука - навчальний курс/2.2 Розгляд СК. Основа орієнтації в просторі..md",
     "Роборука - навчальний курс/2.1 Розгляд СК. Початок роботи з IMU.md",
     "Роборука - навчальний курс/1 Роборука. Початок.md",
+    "Структура курсу розробки Роборуки.canvas",
     "Роборука - навчальний курс/3 Використання розрахованих кутів для роботи з сервомоторами.md",
+    "Роборука - навчальний курс/2.2 Розгляд СК. Основа орієнтації в просторі..md",
+    "Excalidraw/l2_global_orient_3D_2.excalidraw.md",
+    "Excalidraw/l2_global_orient_3D.excalidraw.md",
+    "Excalidraw/l2_global_orient.excalidraw.md",
+    "Excalidraw/l2_orientation.excalidraw.md",
+    "Структура курсу розробки Роборуки.png",
     "Роборука - навчальний курс/4 Створення електроніки для Роборуки. Передавання даних між СК та електронікою Роборуки.md",
     "2 Розгляд СК. Основа орієнтації в просторі. Початок роботи з IMU.md",
-    "Структура курсу розробки Роборуки.canvas",
     "Роборука - навчальний курс/5 Моделювання конструкції Роборуки.md",
     "Роборука - навчальний курс/images/Підключення сервоприводу.png",
     "Роборука - навчальний курс/images/Встановлення бібліотеки ESP32Servo.png",
@@ -223,11 +214,6 @@
     "Роборука - навчальний курс/images/nokia3310_view0.png",
     "Роборука - навчальний курс/images/l1_2.png",
     "Роборука - навчальний курс/images/l1_1.png",
-    "Роборука - навчальний курс/images/RotationVisualiser_3.png.png",
-    "Excalidraw/l2_global_orient_3D_2.excalidraw.md",
-    "Excalidraw/l2_global_orient_3D.excalidraw.md",
-    "Excalidraw/l2_orientation.excalidraw.md",
-    "Excalidraw/l2_global_orient.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
     "Excalidraw/Scripts/Downloaded/Connect elements.md",
     "Excalidraw/Scripts/Downloaded/Concatenate lines.md",

@@ -1,0 +1,34 @@
+{
+  "lang": "auto",
+  "profiles": [
+    {
+      "name": "std::learn",
+      "apiType": "xml-rpc",
+      "endpoint": "https://learn.thestd.org.ua",
+      "xmlRpcPath": "/xmlrpc.php",
+      "saveUsername": true,
+      "savePassword": true,
+      "isDefault": true,
+      "lastSelectedCategories": [
+        3
+      ],
+      "username": "obsidian",
+      "encryptedPassword": {
+        "key": "{\"alg\":\"A256GCM\",\"ext\":true,\"k\":\"V9x4bTyyg-yHCiHtKn8FHtMkNur7ZNhKeM8TKXnQ504\",\"key_ops\":[\"encrypt\",\"decrypt\"],\"kty\":\"oct\"}",
+        "vector": "WSjh6VMeaHN3N/hr",
+        "encrypted": "7ZqwJQnQDsmoluw3uAs6RzYcY7Jye03NFpmAPJhOhy+gTJ7NCO++6g=="
+      }
+    }
+  ],
+  "showRibbonIcon": true,
+  "defaultPostStatus": "draft",
+  "defaultCommentStatus": "open",
+  "rememberLastSelectedCategories": true,
+  "showWordPressEditConfirm": false,
+  "mathJaxOutputType": "svg",
+  "commentConvertMode": "ignore",
+  "enableHtml": false,
+  "replaceMediaLinks": true,
+  "version": "2",
+  "defaultPostType": "post"
+}
