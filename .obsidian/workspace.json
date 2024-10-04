@@ -22,27 +22,26 @@
             }
           },
           {
-            "id": "07223c0587d22328",
+            "id": "6dec3798ff948efe",
             "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Структура курсу розробки Роборуки.canvas",
-                "viewState": {
-                  "x": -160,
-                  "y": 1190,
-                  "zoom": -2.25720332192529
-                }
-              }
-            }
-          },
-          {
-            "id": "90f678b4431dda5e",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Роборука - навчальний курс/2.2 Розгляд СК. Основа орієнтації в просторі..md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d5d1671584d4beae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Роборука - навчальний курс/3 Використання розрахованих кутів для роботи з сервомоторами.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Роборука - навчальний курс/2.2 Розгляд СК. Основа орієнтації в просторі..md",
+                "file": "Роборука - навчальний курс/3 Використання розрахованих кутів для роботи з сервомоторами.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Роборука - навчальний курс/2.2 Розгляд СК. Основа орієнтації в просторі..md",
+                "file": "Роборука - навчальний курс/3 Використання розрахованих кутів для роботи з сервомоторами.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Роборука - навчальний курс/2.2 Розгляд СК. Основа орієнтації в просторі..md"
+                "file": "Роборука - навчальний курс/3 Використання розрахованих кутів для роботи з сервомоторами.md"
               }
             }
           }
@@ -179,21 +178,25 @@
       "obsidian-wordpress:WordPress Publish": false
     }
   },
-  "active": "90f678b4431dda5e",
+  "active": "d5d1671584d4beae",
   "lastOpenFiles": [
-    "Роборука - навчальний курс/2.1 Розгляд СК. Початок роботи з IMU.md",
-    "Роборука - навчальний курс/1 Роборука. Початок.md",
-    "Структура курсу розробки Роборуки.canvas",
-    "Роборука - навчальний курс/3 Використання розрахованих кутів для роботи з сервомоторами.md",
     "Роборука - навчальний курс/2.2 Розгляд СК. Основа орієнтації в просторі..md",
     "Excalidraw/l2_global_orient_3D_2.excalidraw.md",
+    "Excalidraw/l2_global_orient_3D_2.excalidraw.png",
+    "Роборука - навчальний курс/2.1 Розгляд СК. Початок роботи з IMU.md",
     "Excalidraw/l2_global_orient_3D.excalidraw.md",
+    "Excalidraw/l2_global_orient_3D.excalidraw.png",
+    "Excalidraw/l2_global_orient.excalidraw.png",
+    "Excalidraw/l2_orientation.excalidraw.png",
     "Excalidraw/l2_global_orient.excalidraw.md",
     "Excalidraw/l2_orientation.excalidraw.md",
+    "Роборука - навчальний курс/1 Роборука. Початок.md",
     "Структура курсу розробки Роборуки.png",
+    "Структура курсу розробки Роборуки.canvas",
+    "Роборука - навчальний курс/5 Моделювання конструкції Роборуки.md",
+    "Роборука - навчальний курс/3 Використання розрахованих кутів для роботи з сервомоторами.md",
     "Роборука - навчальний курс/4 Створення електроніки для Роборуки. Передавання даних між СК та електронікою Роборуки.md",
     "2 Розгляд СК. Основа орієнтації в просторі. Початок роботи з IMU.md",
-    "Роборука - навчальний курс/5 Моделювання конструкції Роборуки.md",
     "Роборука - навчальний курс/images/Підключення сервоприводу.png",
     "Роборука - навчальний курс/images/Встановлення бібліотеки ESP32Servo.png",
     "Роборука - навчальний курс/images/Вибір версії ServoESP32.png",
@@ -210,10 +213,6 @@
     "Роборука - навчальний курс/6 Моделювання корпусу для СК. Основи 3D друку.md",
     "Роборука - навчальний курс/images/nokia3310_view3.png",
     "Роборука - навчальний курс/images/nokia3310_view2.png",
-    "Роборука - навчальний курс/images/nokia3310_view1.png",
-    "Роборука - навчальний курс/images/nokia3310_view0.png",
-    "Роборука - навчальний курс/images/l1_2.png",
-    "Роборука - навчальний курс/images/l1_1.png",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
     "Excalidraw/Scripts/Downloaded/Connect elements.md",
     "Excalidraw/Scripts/Downloaded/Concatenate lines.md",
