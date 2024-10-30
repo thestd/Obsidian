@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "34f5b7e454a57fcd",
+        "id": "c979f86b93c366b3",
         "type": "tabs",
         "children": [
           {
-            "id": "0d064d032d71c6b3",
+            "id": "46a22e7e01069c06",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,31 +24,32 @@
             }
           },
           {
-            "id": "fbef481bf144213a",
+            "id": "fc29255d037f317f",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "excalidraw",
+              "state": {
+                "file": "Math/images/excalidraws/complex_6.excalidraw.md"
+              },
+              "pinned": true,
+              "icon": "excalidraw-icon",
+              "title": "complex_6.excalidraw"
             }
           },
           {
-            "id": "94bf410fc7bdd9db",
+            "id": "2bc594c2107d0fc4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Math/Комплексні числа.md",
-                "mode": "source",
-                "source": false
+                "file": "Math/images/excalidraws/complex_3.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Комплексні числа"
+              "icon": "excalidraw-icon",
+              "title": "complex_3.excalidraw"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 372.5
   },
   "right": {
     "id": "0ad62f610aebd175",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Роборука - навчальний курс/2.1 Розгляд СК. Початок роботи з IMU.md",
+                "file": "Урок 1 з викладачами.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2.1 Розгляд СК. Початок роботи з IMU"
+              "title": "Backlinks for Урок 1 з викладачами"
             }
           },
           {
@@ -139,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Роборука - навчальний курс/2.1 Розгляд СК. Початок роботи з IMU.md",
+                "file": "Урок 1 з викладачами.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2.1 Розгляд СК. Початок роботи з IMU"
+              "title": "Outgoing links from Урок 1 з викладачами"
             }
           },
           {
@@ -166,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Роборука - навчальний курс/2.1 Розгляд СК. Початок роботи з IMU.md"
+                "file": "Урок 1 з викладачами.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.1 Розгляд СК. Початок роботи з IMU"
+              "title": "Outline of Урок 1 з викладачами"
             }
           }
         ]
@@ -192,53 +193,55 @@
       "obsidian-wordpress:WordPress Publish": false
     }
   },
-  "active": "94bf410fc7bdd9db",
+  "active": "46a22e7e01069c06",
   "lastOpenFiles": [
+    "Math/images/excalidraws/complex_3.excalidraw.md",
     "Math/Гіперкомплексні числа.md",
-    "Math/images/types_of_cross_products.jpg",
-    "Math/images/5265003132184815348.jpg",
-    "Math/images/complex_plane_detail.jpeg",
+    "Math/images/excalidraws/complex_6.excalidraw.md",
+    "Math/images/excalidraws/complex_5.excalidraw.md",
+    "Math/images/excalidraws/complex_2.excalidraw.md",
+    "Math/images/excalidraws/complex_1.excalidraw.md",
+    "Math/images/excalidraws/complex_4.excalidraw.md",
     "Math/images/complex_plane.jpeg",
+    "Урок 1 з викладачами.md",
+    "Excalidraw/l2_orientation.excalidraw.md",
+    "Роборука - навчальний курс/2.2 Розгляд СК. Основа орієнтації в просторі..md",
+    "Excalidraw/l2_global_orient_3D_2.excalidraw.md",
+    "Роборука - навчальний курс/2.1 Розгляд СК. Початок роботи з IMU.md",
+    "Роборука - навчальний курс/1 Роборука. Початок.md",
+    "Math/images/excalidraws",
+    "Математика/Гіперкомплексні числа.md",
     "Math/images/vise_versa_cross_product.jpg",
-    "Math/images/5265003132184815314.jpg",
-    "Math/Матриці орієнтації.md",
-    "Math/Комплексні числа.md",
-    "Math/images/complex_vectors_2.jpeg",
+    "Math/images/types_of_cross_products.jpg",
     "Math/images/simple_complex_numbers.jpeg",
     "Math/images/dot_vectors_example.png",
-    "Урок 1 з викладачами.md",
-    "Math/ТЗ Стенд для демонстрації можливостей комплексних чисел.md",
+    "Math/images/complex_vectors_2.jpeg",
     "Math/images/complex_vectors_1.jpeg",
-    "Math/images",
-    "Excalidraw/Drawing 2024-10-27 18.00.28.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-17 17.59.02.excalidraw.md",
-    "Роборука - навчальний курс/8 Частина 1. Зміна підходу до розрахунку орієнтації в просторі.md",
-    "Урок з викладачами 31.10.2024.md",
-    "Роборука - навчальний курс/2.1 Розгляд СК. Початок роботи з IMU.md",
-    "Роборука - навчальний курс/2.2 Розгляд СК. Основа орієнтації в просторі..md",
-    "Роборука - навчальний курс/3 Використання розрахованих кутів для роботи з сервомоторами.md",
-    "Роборука - навчальний курс/4 Створення електроніки для Роборуки. Передавання даних між СК та електронікою Роборуки.md",
-    "Роборука - навчальний курс/5 Моделювання конструкції Роборуки.md",
-    "Роборука - навчальний курс/7 Тестування реалізованої системи. Вирішення помилок.md",
-    "Роборука - навчальний курс/6 Моделювання корпусу для СК. Основи 3D друку.md",
-    "Excalidraw/Drawing 2024-10-08 19.38.37.excalidraw.md",
-    "Роборука - навчальний курс/9 Частина 2. Зміна підходу до розрахунку орієнтації в просторі. Кватерніони.md",
-    "Структура курсу розробки Роборуки.canvas",
-    "Math/Кути Ейлера.md",
-    "Додаткові уроки/ESP32.md",
+    "Math/images/complex_plane_detail.jpeg",
+    "Math/images/Cross_product_vectors.gif",
+    "Math/ТЗ Стенд для демонстрації можливостей комплексних чисел.md",
     "Math/Орієнтація в просторі.md",
-    "Роборука - навчальний курс/1 Роборука. Початок.md",
-    "Excalidraw/l2_global_orient_3D_2.excalidraw.md",
-    "Excalidraw/l2_global_orient_3D.excalidraw.md",
-    "Excalidraw/l2_global_orient.excalidraw.md",
+    "Math/Матриці орієнтації.md",
+    "Math/Кути Ейлера.md",
+    "Math/Комплексні числа.md",
+    "Math/images",
+    "Math",
+    "Математика/ img/complex_vectors_2.jpeg",
+    "Математика/Комплексні числа.md",
+    "Урок з викладачами 31.10.2024.md",
+    "Математика/ img",
+    "Математика/untitled folder",
+    "Роборука - навчальний курс/8 Частина 1. Зміна підходу до розрахунку орієнтації в просторі.md",
+    "Роборука - навчальний курс/9 Частина 2. Зміна підходу до розрахунку орієнтації в просторі. Кватерніони.md",
+    "Математика/Кути Ейлера.md",
+    "Математика/ТЗ Стенд для демонстрації можливостей комплексних чисел.md",
+    "Математика/Орієнтація в просторі.md",
+    "Структура курсу розробки Роборуки.canvas",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
     "Новий текстовий документ.txt",
     "Додаткові уроки",
-    "Роборука - навчальний курс/images",
-    "Math",
-    "Роборука - навчальний курс",
     "Без назви 1.canvas",
     "Без назви 2.canvas"
   ]
