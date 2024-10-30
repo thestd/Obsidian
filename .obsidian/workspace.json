@@ -4,24 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "a7342904c0757a8a",
+        "id": "c979f86b93c366b3",
         "type": "tabs",
         "children": [
           {
-            "id": "11efabf2c6fd2e8a",
+            "id": "9ab93fa796037c3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Роборука - навчальний курс/8 Частина 1. Зміна підходу до розрахунку орієнтації в просторі.md",
+                "file": "Урок 1 з викладачами.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8 Частина 1. Зміна підходу до розрахунку орієнтації в просторі"
+              "title": "Урок 1 з викладачами"
+            }
+          },
+          {
+            "id": "46a22e7e01069c06",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-17 17.59.02.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-10-17 17.59.02.excalidraw"
+            }
+          },
+          {
+            "id": "c513e2c935fca600",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
+            }
+          },
+          {
+            "id": "a6bb05ee5eeeb091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Математика/Гіперкомплексні числа.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Гіперкомплексні числа"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -77,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 372.5
   },
   "right": {
     "id": "0ad62f610aebd175",
@@ -93,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Роборука - навчальний курс/2.1 Розгляд СК. Початок роботи з IMU.md",
+                "file": "Урок 1 з викладачами.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2.1 Розгляд СК. Початок роботи з IMU"
+              "title": "Backlinks for Урок 1 з викладачами"
             }
           },
           {
@@ -112,12 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Роборука - навчальний курс/2.1 Розгляд СК. Початок роботи з IMU.md",
+                "file": "Урок 1 з викладачами.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2.1 Розгляд СК. Початок роботи з IMU"
+              "title": "Outgoing links from Урок 1 з викладачами"
             }
           },
           {
@@ -139,10 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Роборука - навчальний курс/2.1 Розгляд СК. Початок роботи з IMU.md"
+                "file": "Урок 1 з викладачами.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.1 Розгляд СК. Початок роботи з IMU"
+              "title": "Outline of Урок 1 з викладачами"
             }
           }
         ]
@@ -165,45 +204,47 @@
       "obsidian-wordpress:WordPress Publish": false
     }
   },
-  "active": "11efabf2c6fd2e8a",
+  "active": "a6bb05ee5eeeb091",
   "lastOpenFiles": [
-    "Урок з викладачами 31.10.2024.md",
+    "Математика/ img/complex_vectors_2.jpeg",
+    "Математика/ img/complex_vectors_1.jpeg",
+    "Математика/ img/photo_2024-10-30 18.28.56.jpeg",
+    "Математика/ img/photo_2024-10-30 18.28.53.jpeg",
     "Математика/Комплексні числа.md",
+    "Урок з викладачами 31.10.2024.md",
     "Математика/Гіперкомплексні числа.md",
+    "Математика/ img/complex_plane_detail.jpeg",
+    "Математика/ img/complex_plane.jpeg",
+    "Математика/ img/simple_complex_numbers.jpeg",
+    "Математика/ img/photo_2024-10-30 18.09.16.jpeg",
+    "Математика/ img/photo_2024-10-30 18.09.18.jpeg",
+    "Математика/ img/photo_2024-10-30 18.09.14.jpeg",
+    "Математика/ img",
+    "Математика/untitled folder",
     "Роборука - навчальний курс/8 Частина 1. Зміна підходу до розрахунку орієнтації в просторі.md",
+    "Роборука - навчальний курс/9 Частина 2. Зміна підходу до розрахунку орієнтації в просторі. Кватерніони.md",
+    "Математика/Кути Ейлера.md",
+    "Урок 1 з викладачами.md",
+    "Математика/ТЗ Стенд для демонстрації можливостей комплексних чисел.md",
+    "Математика/Орієнтація в просторі.md",
+    "Математика/Матриці орієнтації.md",
+    "Математика/Гіперкомплексні числа, кватерніони.md",
+    "Excalidraw/Drawing 2024-10-27 18.00.28.excalidraw.png",
+    "Excalidraw/Drawing 2024-10-27 18.00.28.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-17 17.59.02.excalidraw.md",
+    "Роборука - навчальний курс/1 Роборука. Початок.md",
+    "Структура курсу розробки Роборуки.canvas",
     "Роборука - навчальний курс/2.1 Розгляд СК. Початок роботи з IMU.md",
     "Роборука - навчальний курс/2.2 Розгляд СК. Основа орієнтації в просторі..md",
-    "Роборука - навчальний курс/3 Використання розрахованих кутів для роботи з сервомоторами.md",
-    "Роборука - навчальний курс/4 Створення електроніки для Роборуки. Передавання даних між СК та електронікою Роборуки.md",
-    "Роборука - навчальний курс/5 Моделювання конструкції Роборуки.md",
+    "Роборука - навчальний курс/8 Частина 1. Зміна підходу до розрахунку орієнтації в просторі. Комплексні числа..md",
+    "Excalidraw/Drawing 2024-10-08 19.38.37.excalidraw.md",
+    "Додаткові уроки/ESP32.md",
+    "Excalidraw/l2_global_orient.excalidraw.md",
+    "Excalidraw/l2_global_orient_3D.excalidraw.md",
+    "Роборука - навчальний курс/10 Тестування реалізованих проєктів. Виправлення помилок. Підготовка до презентації.md",
     "Роборука - навчальний курс/7 Тестування реалізованої системи. Вирішення помилок.md",
     "Роборука - навчальний курс/6 Моделювання корпусу для СК. Основи 3D друку.md",
-    "Роборука - навчальний курс/images/l8_q_rotation.gif",
-    "Роборука - навчальний курс/images/l8_gimbal_lock.gif",
-    "Роборука - навчальний курс/images/l8_euler_rotation.gif",
-    "Excalidraw/l2_orientation.excalidraw.png",
-    "Excalidraw/l2_global_orient_3D_2.excalidraw.png",
-    "Excalidraw/l2_global_orient_3D.excalidraw.png",
-    "Excalidraw/l2_global_orient.excalidraw.png",
-    "Excalidraw/Drawing 2024-10-08 19.38.37.excalidraw.md",
-    "Роборука - навчальний курс/9 Частина 2. Зміна підходу до розрахунку орієнтації в просторі. Кватерніони.md",
-    "Структура курсу розробки Роборуки.canvas",
-    "Математика/Кути Ейлера.md",
-    "Математика/Матриці орієнтації.md",
-    "Додаткові уроки/ESP32.md",
-    "Математика/Орієнтація в просторі.md",
-    "Роборука - навчальний курс/1 Роборука. Початок.md",
-    "Excalidraw/l2_global_orient_3D_2.excalidraw.md",
-    "Excalidraw/l2_global_orient_3D.excalidraw.md",
-    "Excalidraw/l2_global_orient.excalidraw.md",
-    "Excalidraw/l2_orientation.excalidraw.md",
-    "Структура курсу розробки Роборуки.png",
-    "2 Розгляд СК. Основа орієнтації в просторі. Початок роботи з IMU.md",
-    "Роборука - навчальний курс/images/Підключення сервоприводу.png",
-    "Роборука - навчальний курс/images/Встановлення бібліотеки ESP32Servo.png",
-    "Роборука - навчальний курс/11 Ретроспектива. Визначення основних проблем пройденого курсу..md",
-    "Роборука - навчальний курс/10 Тестування реалізованих проєктів. Виправлення помилок. Підготовка до презентації.md",
-    "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
+    "Роборука - навчальний курс/5 Моделювання конструкції Роборуки.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
