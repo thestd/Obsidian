@@ -14,9 +14,9 @@
       ],
       "username": "obsidian",
       "encryptedPassword": {
-        "key": "{\"alg\":\"A256GCM\",\"ext\":true,\"k\":\"V9x4bTyyg-yHCiHtKn8FHtMkNur7ZNhKeM8TKXnQ504\",\"key_ops\":[\"encrypt\",\"decrypt\"],\"kty\":\"oct\"}",
-        "vector": "WSjh6VMeaHN3N/hr",
-        "encrypted": "7ZqwJQnQDsmoluw3uAs6RzYcY7Jye03NFpmAPJhOhy+gTJ7NCO++6g=="
+        "key": "{\"alg\":\"A256GCM\",\"ext\":true,\"k\":\"0nqye6sIr59ZZKIl57lcAORmCdAU1kFTqLR9081kRXc\",\"key_ops\":[\"encrypt\",\"decrypt\"],\"kty\":\"oct\"}",
+        "vector": "VC6vDv3YfdSNNX9b",
+        "encrypted": "rvMLCEJGeL6FADTEazf7pIxIhdbhlR/GMA0bV6dnu0m3uvMI6ITIqw=="
       }
     }
   ],
